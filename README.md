@@ -3,7 +3,7 @@
 ## by Nhat Nguyen
 
 ### Link to GH Pages
-- https://nhaatn.github.io/cpnt262-a1/
+- https://nhaatn.github.io/cpnt262-a2/
 
 ### Link to GH Repo
 - https://github.com/nhaatn/cpnt262-a2
